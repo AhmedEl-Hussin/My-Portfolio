@@ -1,6 +1,8 @@
 
 export default function Projects() {
     return (
-        <div>Projects</div>
+        <div>
+            <h1>Ahmed Moahmed</h1>
+        </div>
     )
 }
